@@ -1,3 +1,4 @@
-ï»¿# CTRLTestRepository
-GitHubã®ãƒ†ã‚¹ãƒˆç”¨ãƒªãƒã‚¸ãƒˆãƒª
-ã«ã‚ƒãƒ¼ã‚“
+# CTRLTestRepository
+GitHub‚ÌƒeƒXƒg—pƒŠƒ|ƒWƒgƒŠ
+‚É‚á[‚ñ
+‚É‚á‚É‚á[[[‚ñ
